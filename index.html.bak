@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<meta charset="utf-8">
+		<title> League of Rage </title>
+		<link href="styles/style.css" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+	</head>
+	<body bgcolor="black">
+		<img src="images/bg-sus.png" alt="Imagine lol"> </p>
+		<h1> Ce înseamnă <b>League of Rage?<b> </h1>
+		<h2> Comunitatea <b><i>"League of Rage"</i></b>
+		conține informații legate de:</h2>
+			<p><u>Jucători</u></p>
+			<p><u>Gameplay</u> </p>
+			<p><u>Update-uri</u></p>
+			<p>și multe altele. </p>
+	<button> Change user </button>
+	<h4><button> Change password </button></h4>
+	<h3> Parola ta </h3>
+	<script src="scripts/main.js"></script>		
+	</body>
+</html>
